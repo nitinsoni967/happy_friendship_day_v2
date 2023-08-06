@@ -102,6 +102,7 @@
     
     .item-wrapper:hover .item-copy{
         color: #fff;
+        opacity: 0;
     }
     
     .item-copy .id{
@@ -203,6 +204,7 @@
     
     .item-wrapper:hover .item-copy{
         color: #fff;
+        opacity: 0;
     }
     
     .item-copy .id{
@@ -301,6 +303,7 @@
     
     .item-wrapper:hover .item-copy{
         color: #fff;
+        opacity: 0;
     }
     
     .item-copy .id{
